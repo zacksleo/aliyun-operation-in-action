@@ -58,3 +58,4 @@ IP 地址为服务器的公网 IP 地址，端口默认使用 21，这里面选�
 - [轻松配置FTP服务，Windows Server全版本通用教程](https://blog.csdn.net/ongwu/article/details/130817541)
 - [windows开启IIS服务，配置FTP服务器](https://blog.csdn.net/ever_peng/article/details/120350838)
 - [Windows Server 2019 搭建FTP站点](https://www.cnblogs.com/wencg/p/13450938.html)
+- [WINDOWS Server 2012R2 搭建FTP服务器](https://www.cnblogs.com/KeepHoist/p/14103384.html)

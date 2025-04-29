@@ -11,3 +11,10 @@
 - [07.其他服务迁移](./service-migration/07-其他服务迁移.md)
 - [08.其他问题](./service-migration/08-其他问题.md)
 
+## 公众号
+
+> 少湖说：少胡说，多观察。
+
+<img src="./qrcode.png" width="300">
+
+`关注公众号，加入交流群。`
